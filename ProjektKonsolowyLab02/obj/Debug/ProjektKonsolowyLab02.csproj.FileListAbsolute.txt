@@ -1,0 +1,7 @@
+E:\c#\SolucjaLab02\ProjektKonsolowyLab02\bin\Debug\ProjektKonsolowyLab02.exe.config
+E:\c#\SolucjaLab02\ProjektKonsolowyLab02\bin\Debug\ProjektKonsolowyLab02.exe
+E:\c#\SolucjaLab02\ProjektKonsolowyLab02\bin\Debug\ProjektKonsolowyLab02.pdb
+E:\c#\SolucjaLab02\ProjektKonsolowyLab02\obj\Debug\ProjektKonsolowyLab02.csprojAssemblyReference.cache
+E:\c#\SolucjaLab02\ProjektKonsolowyLab02\obj\Debug\ProjektKonsolowyLab02.csproj.CoreCompileInputs.cache
+E:\c#\SolucjaLab02\ProjektKonsolowyLab02\obj\Debug\ProjektKonsolowyLab02.exe
+E:\c#\SolucjaLab02\ProjektKonsolowyLab02\obj\Debug\ProjektKonsolowyLab02.pdb
